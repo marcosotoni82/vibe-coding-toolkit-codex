@@ -146,3 +146,6 @@ vite.config.ts.timestamp-*
 .tmp/
 # macOS
 .DS_Store
+
+__pycache__/
+*.pyc

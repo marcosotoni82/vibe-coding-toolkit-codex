@@ -1,0 +1,16 @@
+{
+  "name": "vibe-coding-toolkit-codex",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Codex adaptation of Matheus Gomes Vibe Coding Toolkit",
+  "license": "MIT",
+  "scripts": {
+    "test": "node templates/eslint/verify.mjs ./templates/eslint/eslint-rules/index.cjs"
+  },
+  "devDependencies": {
+    "eslint": "10.11.0"
+  },
+  "engines": {
+    "node": "^20.19.0 || ^22.13.0 || >=24"
+  }
+}

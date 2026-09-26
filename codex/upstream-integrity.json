@@ -1,0 +1,14 @@
+{
+  "templates/eslint/eslint.typed.config.mjs.example": "7d27df7ad66d8bd489b891124c25911074b475b0e48239a6a783fff6960bcaad",
+  "templates/eslint/verify.mjs": "225f0d94f5a3f3f2cb912611c8df1e3c73a27a1cf8070b8cd9d7d8973f6fba71",
+  "templates/eslint/eslint.config.mjs.example": "ec7d478f86aeef460fd6a881c1d827a9ea6d6081614217ab3c27ef7d6ee1eb42",
+  "templates/eslint/eslint-rules/utils.cjs": "9b7daa0c30ee0adcaaf24fee09c0701bd23dc6b9ba925428fda84ca13e917547",
+  "templates/eslint/eslint-rules/index.cjs": "9610051b37cf4832532cce223060a328851727c85e2d1c0b8745a5f0c837e550",
+  "templates/eslint/eslint-rules/core-rules.cjs": "348b7fe3451806cde9e0e7b7a1fec78e264ada84a41c1203c82863061cbc51c5",
+  "codex/skills/vibe-codex/assets/eslint/eslint.typed.config.mjs.example": "7d27df7ad66d8bd489b891124c25911074b475b0e48239a6a783fff6960bcaad",
+  "codex/skills/vibe-codex/assets/eslint/verify.mjs": "225f0d94f5a3f3f2cb912611c8df1e3c73a27a1cf8070b8cd9d7d8973f6fba71",
+  "codex/skills/vibe-codex/assets/eslint/eslint.config.mjs.example": "ec7d478f86aeef460fd6a881c1d827a9ea6d6081614217ab3c27ef7d6ee1eb42",
+  "codex/skills/vibe-codex/assets/eslint/eslint-rules/utils.cjs": "9b7daa0c30ee0adcaaf24fee09c0701bd23dc6b9ba925428fda84ca13e917547",
+  "codex/skills/vibe-codex/assets/eslint/eslint-rules/index.cjs": "9610051b37cf4832532cce223060a328851727c85e2d1c0b8745a5f0c837e550",
+  "codex/skills/vibe-codex/assets/eslint/eslint-rules/core-rules.cjs": "348b7fe3451806cde9e0e7b7a1fec78e264ada84a41c1203c82863061cbc51c5"
+}
