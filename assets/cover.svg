@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+<title id="title">Vibe Coding Toolkit — Codex Edition</title><desc id="desc">Planejar, construir e verificar. Uma adaptação para Codex do toolkit de Matheus Gomes.</desc>
+<rect width="1280" height="420" rx="24" fill="#101b25"/>
+<g stroke="#203342" stroke-width="1"><path d="M0 84h1280M0 168h1280M0 252h1280M0 336h1280M256 0v420M512 0v420M768 0v420M1024 0v420"/></g>
+<rect x="64" y="58" width="186" height="32" rx="16" fill="#b6f36a"/>
+<text x="157" y="80" text-anchor="middle" fill="#101b25" font-family="Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="2">CODEX EDITION</text>
+<text x="64" y="170" fill="#f5f8fa" font-family="Arial,sans-serif" font-size="62" font-weight="700">Vibe Coding Toolkit</text>
+<text x="67" y="225" fill="#b9c9d6" font-family="Arial,sans-serif" font-size="25">Da intenção à entrega, com evidências.</text>
+<g font-family="Arial,sans-serif" font-size="17" fill="#b6f36a"><text x="67" y="304">01 / PLANEJAR</text><text x="322" y="304">02 / CONSTRUIR</text><text x="600" y="304">03 / VERIFICAR</text></g>
+<text x="67" y="375" fill="#839bac" font-family="Arial,sans-serif" font-size="16">Adaptação por Marcos Otoni · Original por Matheus Gomes · MIT</text>
+<path d="m1100 126-60 65 60 65m54-130 60 65-60 65" fill="none" stroke="#b6f36a" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
